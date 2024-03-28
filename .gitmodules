@@ -1,0 +1,3 @@
+[submodule "submodulerepo"]
+	path = submodulerepo
+	url = https://github.com/chiarafranco12/submodulerepo.git
